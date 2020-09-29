@@ -8,7 +8,7 @@ class Body extends Component<Props, State> {
     state = {}
 
     render() {
-        return <div>My data from json: {data_json["test"]}</div>
+        return <div className="text-center">My data from json: {data_json["test"]}</div>
     }
 }
 
