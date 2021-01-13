@@ -45,4 +45,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Prettier autoformatting
 
-`prettier --write "**/*.ts"`
+`prettier --write "**/*.{ts,tsx}"`
